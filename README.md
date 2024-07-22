@@ -11,11 +11,11 @@ cubeSpraying attempts to log in to Roundcube Webmail using a list of usernames a
 
 ### Key Features
 
-- **Password Spraying**: Attempts one password against multiple users before moving to the next password.
-- **Verbose Mode**: Displays details of each login attempt.
+- **Password spraying**: Attempts one password against multiple users before moving to the next password.
+- **Verbose mode**: Displays details of each login attempt.
 - **Timeout**: Allows specifying a wait time between each login attempt.
-- **Session Handling**: Uses `requests` sessions to handle cookies and authentication tokens.
-- **Flexible Input**: Accepts either a single value or a file containing multiple values for both usernames and passwords.
+- **Session handling**: Uses `requests` sessions to handle cookies and authentication tokens.
+- **Flexible input**: Accepts either a single value or a file containing multiple values for both usernames and passwords.
 
 ### Flexible Input Options
 
