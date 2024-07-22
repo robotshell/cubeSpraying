@@ -1,9 +1,6 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/robotshell/cubeSpraying"><img src="https://i.ibb.co/9w6wcmG/logo-1.png" alt="cubeSpraying"></a>
-  <br>
-  cubeSpraying
-  <br>
 </h1>
 
 cubeSpraying performs a Password Spraying attack against a Roundcube Webmail application. Password Spraying is a technique where an attacker attempts one password against many users to avoid being locked out due to multiple failed login attempts.
