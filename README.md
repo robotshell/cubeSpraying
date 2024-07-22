@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/robotshell/cubeSpraying"><img src="https://ibb.co/LQmQYDv" alt="cubeSpraying"></a>
+  <a href="https://github.com/robotshell/cubeSpraying"><img src="https://i.ibb.co/9w6wcmG/logo-1.png" alt="cubeSpraying"></a>
   <br>
   cubeSpraying
   <br>
