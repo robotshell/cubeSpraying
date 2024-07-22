@@ -33,7 +33,7 @@ This flexibility allows for easy and quick testing with single credentials as we
 1. Clone this repository or download the files.
 
     ```sh
-    git clone [https://github.com/your_username/your_repository.git](https://github.com/robotshell/cubeSpraying.git)
+    git clone https://github.com/robotshell/cubeSpraying.git
     ```
 
 2. Navigate to the project directory.
