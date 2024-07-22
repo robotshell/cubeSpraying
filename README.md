@@ -53,4 +53,4 @@ This flexibility allows for easy and quick testing with single credentials as we
 Run the script with the following parameters:
 
 ```sh
-python script.py --url URL --usernames USERNAMES --passwords PASSWORDS [--verbose] [--timeout TIMEOUT]
+python cubeSpraying.py --url URL --usernames USERNAMES --passwords PASSWORDS [--verbose] [--timeout TIMEOUT]
