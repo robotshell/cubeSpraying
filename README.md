@@ -58,3 +58,5 @@ Run the script with the following parameters:
 ```sh
 python cubeSpraying.py --url URL --usernames USERNAMES --passwords PASSWORDS [--verbose] [--timeout TIMEOUT]
 ```
+# Disclaimer
+This tool is intended for educational and research purposes only. The author and contributors are not responsible for any misuse of this tool. Users are advised to use this tool responsibly and only on systems for which they have explicit permission. Unauthorized access to systems, networks, or data is illegal and unethical. Always obtain proper authorization before conducting any kind of activities that could impact other users or systems.
